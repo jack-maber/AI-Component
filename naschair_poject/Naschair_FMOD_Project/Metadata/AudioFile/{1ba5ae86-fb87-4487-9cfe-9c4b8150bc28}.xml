@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{1ba5ae86-fb87-4487-9cfe-9c4b8150bc28}">
+        <property name="assetPath">
+            <value>Hera/use_your_blood.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.6820408163265306</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5ebd648a-f5b8-487d-bb91-62bdeeacb598}</destination>
+        </relationship>
+    </object>
+</objects>

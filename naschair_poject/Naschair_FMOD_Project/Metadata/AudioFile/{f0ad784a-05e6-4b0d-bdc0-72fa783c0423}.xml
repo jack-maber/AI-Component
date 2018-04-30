@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{f0ad784a-05e6-4b0d-bdc0-72fa783c0423}">
+        <property name="assetPath">
+            <value>Hera/i_would_be_sorry.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>6.9909070294784579</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5ebd648a-f5b8-487d-bb91-62bdeeacb598}</destination>
+        </relationship>
+    </object>
+</objects>

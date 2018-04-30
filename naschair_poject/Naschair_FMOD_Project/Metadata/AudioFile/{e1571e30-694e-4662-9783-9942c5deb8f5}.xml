@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{e1571e30-694e-4662-9783-9942c5deb8f5}">
+        <property name="assetPath">
+            <value>Music/NC_race_3_ver1.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>42.352947845804991</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5ebd648a-f5b8-487d-bb91-62bdeeacb598}</destination>
+        </relationship>
+    </object>
+</objects>

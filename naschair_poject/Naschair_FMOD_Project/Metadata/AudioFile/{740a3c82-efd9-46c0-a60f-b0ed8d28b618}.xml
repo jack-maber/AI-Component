@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{740a3c82-efd9-46c0-a60f-b0ed8d28b618}">
+        <property name="assetPath">
+            <value>Obrianna/NC_VO_obrianna_subevent2_4.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.996734693877551</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5ebd648a-f5b8-487d-bb91-62bdeeacb598}</destination>
+        </relationship>
+    </object>
+</objects>

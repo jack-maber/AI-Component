@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{679fe9e2-a807-4739-87c9-e8162bea5681}">
+        <property name="assetPath">
+            <value>Tiberus/the_big_man.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.7574376417233561</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5ebd648a-f5b8-487d-bb91-62bdeeacb598}</destination>
+        </relationship>
+    </object>
+</objects>

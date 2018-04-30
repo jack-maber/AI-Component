@@ -1,0 +1,1 @@
+﻿public enum ManagerTypes { GameManager, PlayerManager, LapManager, MapManager, RaceManager}

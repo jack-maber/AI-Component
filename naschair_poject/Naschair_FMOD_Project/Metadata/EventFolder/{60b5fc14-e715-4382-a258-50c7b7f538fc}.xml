@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="EventFolder" id="{60b5fc14-e715-4382-a258-50c7b7f538fc}">
+        <property name="name">
+            <value>hera_events4</value>
+        </property>
+        <relationship name="folder">
+            <destination>{c356a2f6-5420-4e13-a656-a47ba3d51e8d}</destination>
+        </relationship>
+    </object>
+</objects>

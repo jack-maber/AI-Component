@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6631207db895cd44c93017ddf543f83e
+timeCreated: 1511260238
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camData: {fileID: 11400000, guid: 440f9ba7302a9ab478da147398eccdc5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

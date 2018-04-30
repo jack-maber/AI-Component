@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="EventFolder" id="{0d855968-b870-457d-8cc5-a0d00e92e896}">
+        <property name="name">
+            <value>DO_NOT_USE_Taunts</value>
+        </property>
+        <relationship name="folder">
+            <destination>{b4279ba1-d297-49a0-a6d3-7e9380e55625}</destination>
+        </relationship>
+    </object>
+</objects>

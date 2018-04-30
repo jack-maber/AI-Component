@@ -1,0 +1,1 @@
+﻿public enum Songs { CanyonTrack, IndustrialTrack, MainMenu}
