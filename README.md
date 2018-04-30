@@ -1,6 +1,7 @@
 # AI-Component
 
-Link to repo: https://github.com/jack-maber/AI-Component
+Link to old repo: https://github.com/NvGBoink/naschair
+Link to new repo: https://github.com/jack-maber/AI-Component
 
 The Image of my script is in the Scripts folder
 
