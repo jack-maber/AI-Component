@@ -1,5 +1,7 @@
 # AI-Component
 
+Link to repo: https://github.com/jack-maber/AI-Component
+
 The Image of my script is in the Scripts folder
 
 I tried implementing a Behaviour tree system but this proved much more involved that I thought as the preset actions didn't match up with the system I created, also it caused it to crash every time the game was played, so I went with a much simpler, checkpoint based system instead, and although it only involves one script, it is very effective and can be scaled up with the tracks in the game as it uses NavMesh to avoid obstacles on the tracks
